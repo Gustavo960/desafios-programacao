@@ -2,7 +2,7 @@
 
 # Resolução de Desafios Práticos
 
-* **Estudante:** [Gutavo Gabanella]
+* **Estudante:** [Gustavo Gabanella]
 * **Plataforma Utilizada:** freeCodeCamp
 * **Tecnologia Praticada:** HTML e CSS
 * **Disciplina:** [Design Profissional]
